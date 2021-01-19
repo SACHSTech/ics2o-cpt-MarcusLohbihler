@@ -12,7 +12,7 @@ NAVY     = (   7,  36, 115)
 
 pygame.init()
 
-size = (800, 580)
+size = (800, 581)
 screen = pygame.display.set_mode(size)
 
  
