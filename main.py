@@ -35,7 +35,7 @@ while not done:
      
     # First, clear the screen to white or whatever background colour. 
     # Don't put other drawing commands above this, or they will be erased with this command.
-    screen.fill(WHITE)
+    screen.fill(RED)
      
     # --- Go ahead and update the screen with what we've drawn.
     pygame.display.flip()
